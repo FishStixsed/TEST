@@ -1,0 +1,20 @@
+body {background-image:url('blueneil.jpeg'); 
+background-repeat: no-repeat; 
+background-size: cover
+;
+}
+
+
+#neil {text-align: center;
+letter-spacing: 4px;
+font-size: 50px;
+font-family:Grinched;
+color: white;
+font-weight: bolder;
+font-style: oblique;
+}
+
+.venus{font-family: Comic Sans MS;
+color:white;
+text-align: center;
+}
